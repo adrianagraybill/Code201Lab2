@@ -1,4 +1,4 @@
-# Code201Lab2
+# Prompts
 
 This page is dedicated to play a guessing game between the user and my site. 
 
